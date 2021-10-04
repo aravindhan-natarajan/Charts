@@ -1,15 +1,6 @@
-//
-//  ChartColors.swift
-//
-//  Created by Giampaolo Bellavite on 07/11/14.
-//  Copyright (c) 2014 Giampaolo Bellavite. All rights reserved.
-//
-
 import UIKit
 
-/**
-Shorthands for various colors to use in the charts.
-*/
+
 public struct ChartColors {
 
     static fileprivate func colorFromHex(_ hex: Int) -> UIColor {

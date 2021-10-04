@@ -1,15 +1,5 @@
-//
-//  ChartSeries.swift
-//
-//  Created by Giampaolo Bellavite on 07/11/14.
-//  Copyright (c) 2014 Giampaolo Bellavite. All rights reserved.
-//
-
 import UIKit
 
-/**
-The `ChartSeries` class create a chart series and configure its appearance and behavior.
-*/
 open class ChartSeries {
     /**
     The data used for the chart series.

@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "Aravindhan" => "virataravindhan@gmail.com" }
   s.source           = { :git => "https://github.com/aravindhan-natarajan/Charts", :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/gpblv'
+
 
   s.platform     = :ios, '10.0'
   s.swift_version = '4.2'
